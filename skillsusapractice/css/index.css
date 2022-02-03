@@ -20,3 +20,6 @@
 .img-resource {
     height: 360px;
 }
+.parallax-header-text {
+    font-weight:bold !important;
+}
