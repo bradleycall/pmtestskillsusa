@@ -1,4 +1,4 @@
-.achievements-icons
+
 
 .achievements-headers{
     color: #ffffff !important;
@@ -17,3 +17,6 @@
     color: #cfcfcf;
 }
 
+.img-resource {
+    height: 360px;
+}
