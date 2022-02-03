@@ -1,4 +1,14 @@
-/* sup */
+
+
+.achievements-headers{
+    color: #ffffff !important;
+    display: flex;
+}
+
+.achievements-content{
+    color: #cfcfcf;
+    display: flex;
+}
 
 .about-headers{
     color: #ffffff !important;
