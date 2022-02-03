@@ -1,13 +1,24 @@
-
-
-.achievements-headers{
-    color: #ffffff !important;
-    display: flex;
+.goals-logo{
+    display:flex;
+    float: none;
+    justify-content: center;
 }
 
-.achievements-content{
+.goals-headers{
+    color: #ffffff !important;
+    display: flex;
+    float: none;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.goals-content{
     color: #cfcfcf;
     display: flex;
+    float: none;
+    justify-content: center;
+    text-align: center;
 }
 
 .about-headers{
