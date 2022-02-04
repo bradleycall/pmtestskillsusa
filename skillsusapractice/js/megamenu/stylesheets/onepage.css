@@ -80,7 +80,7 @@
 }
 /* line 59, ../sass/screen.scss */
 .one-page-has-left .header-section ul li.hover > a, .one-page-has-left .header-section ul li.active > a {
-	color: #17a2aa;
+	color: #005b90;
 }
 /* line 66, ../sass/screen.scss */
 .one-page-has-left .header-section ul li.hover > .arrow:after {
@@ -111,7 +111,7 @@
 	color: #8bb4f8;
 }
 .one-page-has-left.dark-style .header-section ul li:hover > a {
-	color: #17a2aa;
+	color: #005b90;
 }
 /* line 90, ../sass/screen.scss */
 .one-page-has-left .header-section ul li.mega-menu ul {
@@ -336,7 +336,7 @@
 }
 /* line 261, ../sass/screen.scss */
 .one-page-has-right .header-section ul li.hover > a, .one-page-has-right .header-section ul li.active > a {
-	color: #17a2aa;
+	color: #005b90;
 }
 /* line 268, ../sass/screen.scss */
 .one-page-has-right .header-section ul li.hover > .arrow:after {
@@ -360,7 +360,7 @@
 }
 /* line 287, ../sass/screen.scss */
 .one-page-has-right .header-section ul li.active > a {
-	color: #17a2aa;
+	color: #005b90;
 }
 /* line 292, ../sass/screen.scss */
 .one-page-has-right .header-section ul li.mega-menu ul {
